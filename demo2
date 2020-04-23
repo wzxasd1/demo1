@@ -1,0 +1,6 @@
+$cd /Users/space/documents/Axure/demo2
+$ git init
+$ git add .
+$ git commit -m "my frist axure demo."
+$ git remote add origin git@github.com:space-wzx/demo.git
+$ git push -u origin master
